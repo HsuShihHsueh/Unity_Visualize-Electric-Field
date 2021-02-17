@@ -34,3 +34,4 @@ escape鍵    ：退出遊戲(可能有延遲<br>
 # 三、鍵盤&滑鼠偵測
 左下方的鍵盤滑鼠偵測是使用python做的<br>
 程式碼也附在"/mouse_keyboard_detector"裡
+<img src="/picture/detector.png" width="375" />
