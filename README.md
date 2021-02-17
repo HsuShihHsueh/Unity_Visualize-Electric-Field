@@ -2,7 +2,7 @@
 👇 youtube link<br>
 
 # 一、操作
-
+<img src="/picture/configuration.png" width="375" /><br>
 打開"electric_line.bat"(勾windows以不進入全螢幕)並單擊play開始<br>
 若捷徑無法打開，請至資料夾點".\certification\electtric_line.exe"<br>
 
