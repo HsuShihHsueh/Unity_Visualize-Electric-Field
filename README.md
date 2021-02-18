@@ -3,8 +3,8 @@
 <kbd><a href="http://www.youtube.com/watch?v=HrMNcW8Fh9E" target=_blank><img src="http://img.youtube.com/vi/HrMNcW8Fh9E/0.jpg" width="700" style="border:2px #ccc solid;padding:5px;"></a></kbd><br> 
 # 一、操作
 <img src="/picture/configuration.png" width="375" /><br>
-打開"electric_line.bat"(勾windows以不進入全螢幕)並單擊play開始<br>
-若捷徑無法打開，請至資料夾點".\certification\electtric_line.exe"<br>
+打開 ```electric_line.bat``` (勾windows以不進入全螢幕)並單擊play開始<br>
+若捷徑無法打開，請至資料夾點 ```.\certification\electtric_line.exe``` <br>
 
 上下左右鍵  ：可控制右邊電荷位置<br>
 backspace鍵 ：右邊電荷回到原點<br>
