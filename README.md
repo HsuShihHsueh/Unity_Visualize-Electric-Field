@@ -1,6 +1,6 @@
 # 【Unity】Visualize-Electric-Field
 👇 youtube link<br>
-<kbd><a href="http://www.youtube.com/watch?v=HrMNcW8Fh9E" target=_blank><img src="http://img.youtube.com/vi/HrMNcW8Fh9E/0.jpg" width="700" style="border:2px #ccc solid;padding:5px;"></a></kbd><br> 
+<kbd><a href="http://www.youtube.com/watch?v=HrMNcW8Fh9E" target=_blank><img src="https://i9.ytimg.com/vi/HrMNcW8Fh9E/maxresdefault.jpg?time=1613626800000&sqp=CLD7t4EG&rs=AOn4CLAeQjArlQYRdEQzFGGaYGDZnHJEfg" width="700" style="border:2px #ccc solid;padding:5px;"></a></kbd><br> 
 # 一、操作
 <img src="/picture/configuration.png" width="375" /><br>
 打開 ```electric_line.bat``` (勾windows以不進入全螢幕)並單擊play開始<br>
