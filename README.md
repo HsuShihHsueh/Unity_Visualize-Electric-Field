@@ -7,7 +7,7 @@
 若捷徑無法打開，請至資料夾點 ```.\certification\electtric_line.exe``` <br>
 
 上下左右鍵   <t>：可控制右邊電荷位置<br>
-backspace鍵 <t>：右邊電荷回到原點<br>
+backspace鍵 <t><t>：右邊電荷回到原點<br>
 單擊電荷按鈕 <t>：可改變電荷量(+9e~-9e)<br>
 中間橫桿     <t>：控制產生電力線的間距(delta distance)<br>
 自動刷新    <t>：靜待約十秒將自動刷新<br>
