@@ -1,0 +1,17 @@
+{
+	"name": "Unity_Visualize-Electric-Field",
+	"thumbnail" : "https://img.youtube.com/vi/HrMNcW8Fh9E/maxresdefault.jpg",
+	"project_zh" : "【Unity】視覺化電力線",
+	"project_en" : "Visualize Electric Field by Unity",
+	"hashtag" : ["#Unity","#ElectricField","#Mouse/Keyboard-Detector"],
+	"description_zh" : "本項目為關於兩電荷間的電力線模擬，並設計了懸浮視窗用於顯示鍵盤與滑鼠動作。",
+	"description_en" : "This project is about the visualization of electric field lines between two electric charges, and designed a floating window to display the action of keyboard and mouse.",
+	"github" : "https://github.com/HsuShihHsueh/Unity_Visualize-Electric-Field",
+	"youtube" : "https://www.youtube.com/watch?v=HrMNcW8Fh9E",
+	"date" : "Last Updated : 2021-02-18",
+	"picture" : [
+		"https://img.youtube.com/vi/HrMNcW8Fh9E/maxresdefault.jpg",
+		"https://github.com/HsuShihHsueh/Unity_Visualize-Electric-Field/raw/main/picture/1.gif",
+		"https://github.com/HsuShihHsueh/Unity_Visualize-Electric-Field/raw/main/picture/2.gif"
+	]
+}
